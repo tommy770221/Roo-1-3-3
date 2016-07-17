@@ -87,6 +87,7 @@
 		<module>addon-oscommands</module>
 		<module>addon-tailor</module>
 		<module>annotations</module>
+        <module>addon-test-system</module>
     </modules>
     <distributionManagement>
         <snapshotRepository>
